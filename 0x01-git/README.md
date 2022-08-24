@@ -1,1 +1,1 @@
-My second readme commit
+My manual readme editing
